@@ -6,7 +6,7 @@
 
 ---
 
-## ℹ️INFO
+## ℹ️ INFO
 
 **OS:** [Linux Fedora](https://fedoraproject.org/)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 💾SOFTWARE
+## 💾 SOFTWARE
 
 **DOTFILES MANAGER:** [Chezmoi](https://www.chezmoi.io/)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🔣MISC
+## 🔣 MISC
 
 **SYSTEM FONT:** 
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🖼️SCREENSHOTS
+## 🖼️ SCREENSHOTS
 
 ![helix + cbonsai](screencaps/1.png)
 
