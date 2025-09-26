@@ -24,6 +24,8 @@
 
 **TERMINAL EDITOR:** [Helix](https://helix-editor.com/)
 
+**NON-CODING TEXT EDITOR** [Micro](micro-editor.github.io)
+
 **GUI EDITOR:** [Zed](https://zed.dev/)
 
 **BROWSER:** [Zen](https://zen-browser.app/)
