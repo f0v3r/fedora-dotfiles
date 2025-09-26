@@ -68,4 +68,8 @@
 
 <sub>Zen + Obsidian</sub>
 
+![micro + lazygit](screencaps/5.png)
+
+<sub>Micro + Lazygit</sub>
+
 
